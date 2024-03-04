@@ -1,0 +1,40 @@
+ {
+        "name": "Backpack",
+        "price": 2,
+        "rarity": "Common",
+        "attunement_required": false,
+        "type": "Adventuring Gear",
+        "description": "A sturdy backpack capable of holding various items and supplies."
+    },
+    {
+        "name": "Rope (50 feet)",
+        "price": 1,
+        "rarity": "Common",
+        "attunement_required": false,
+        "type": "Adventuring Gear",
+        "description": "A length of strong, durable rope, useful for climbing or tying things together."
+    },
+    {
+        "name": "Waterskin",
+        "price": 2,
+        "rarity": "Common",
+        "attunement_required": false,
+        "type": "Adventuring Gear",
+        "description": "A container made of leather or similar material, designed to hold water."
+    },
+    {
+        "name": "Crowbar",
+        "price": 2,
+        "rarity": "Common",
+        "attunement_required": false,
+        "type": "Adventuring Gear",
+        "description": "A metal bar with a flattened end, often used for prying open containers or doors."
+    },
+    {
+        "name": "Torch",
+        "price": 1,
+        "rarity": "Common",
+        "attunement_required": false,
+        "type": "Adventuring Gear",
+        "description": "A stick coated in a flammable substance, providing light when lit."
+    },
